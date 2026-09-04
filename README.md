@@ -1,2 +1,2 @@
 # LoRa-maritime-comms
-Low-cost LoRa communication system optimized for maritime conditions
+Low-cost off-grid LoRa communication for small fishing fleets beyond cellular coverage.
